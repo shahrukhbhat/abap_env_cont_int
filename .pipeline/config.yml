@@ -1,3 +1,6 @@
+general:
+  host: '72c3e559-91e9-46a2-8f02-d12da31ae53b.abap.us10.hana.ondemand.com'
+  abapCredentialsId: 'abapSystem'
 stages:
   Clone Repositories:
     repositories: 'repositories.yml'
