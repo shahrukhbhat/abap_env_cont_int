@@ -1,0 +1,4 @@
+stages:
+  Clone Repositories:
+    repositories: 'repositories.yml'
+    strategy: 'Clone'
