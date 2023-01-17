@@ -1,0 +1,3 @@
+repositories:
+  - name: 'ZABAP_ENV_CI_DEMO'
+    branch: 'main'
