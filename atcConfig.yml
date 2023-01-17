@@ -1,0 +1,3 @@
+objectSet:
+  softwarecomponents:
+    - name: "ZABAP_ENV_CI_DEMO"
