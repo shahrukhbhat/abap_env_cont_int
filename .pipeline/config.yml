@@ -7,3 +7,5 @@ stages:
     strategy: 'Clone'
   ATC:
     atcConfig: 'atcConfig.yml'  
+  AUnit:
+   execute: stage
