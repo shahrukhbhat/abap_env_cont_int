@@ -5,8 +5,8 @@ stages:
   Clone Repositories:
     repositories: 'repositories.yml'
     strategy: 'Clone'
-  #ATC:
+  ATC:
    #execute: stage
-   #atcConfig: 'atcConfig.yml'  
+   atcConfig: 'atcConfig.yml'  
   #AUnit:
    #execute: stage
